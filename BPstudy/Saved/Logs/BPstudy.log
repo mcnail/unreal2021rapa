@@ -3692,3 +3692,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.26-05.54.57:585][676]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.26-05.54.57:585][676]LogContentValidation: Display: Validating Blueprint /Game/BP_Sample/BPfirst.BPfirst
 [2021.07.26-05.54.57:585][676]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.07.26-06.16.36:401][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.07.26-06.16.36:426][  6]LogSavePackage: Moving 'D:/github/unreal2021rapa/BPstudy/Saved/ThirdPersonExampleMap_Auto2F3FCCEB9489395E399F2D889F635A48B.tmp' to 'D:/github/unreal2021rapa/BPstudy/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.07.26-06.16.36:426][  6]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.054
+[2021.07.26-06.16.36:426][  6]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2021.07.26-06.53.19:437][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.26-06.53.21:102][170]LogSlate: Window 'Save Content' being destroyed
+[2021.07.26-06.53.21:163][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.07.26-06.53.21:180][170]LogSavePackage: Moving 'D:/github/unreal2021rapa/BPstudy/Saved/ThirdPersonExampleMap4C25E2AE44200A2AEF8851939C5271E3.tmp' to 'D:/github/unreal2021rapa/BPstudy/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.07.26-06.53.21:183][170]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.036
+[2021.07.26-06.53.21:209][170]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.07.26-06.53.21:209][170]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
